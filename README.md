@@ -1,5 +1,5 @@
 # repo-
-##Nombres de los integrante:
+## Nombres de los integrante:
 
 Camilo Painenao
 _Nicolas Cañete 
@@ -10,8 +10,8 @@ Realizamos un repositorio cada uno, luego se designo para cada integrante una ra
 luego se realizo un "pull request" para implementar los cambios realizados de manera particular por cada integrante del grupo,
 finalmente se realizo un "merge" juntando los commits trabajados.
 
-Comentarios:
+## Comentarios:
 
-Conclusiones:
+## Conclusiones:
 Se logro satisfactoriamente el cometido de la actividad,
 logrando que como grupo adquirieamos conocimiento y practica del funcionamiento de un repositorio compartido.
