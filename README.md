@@ -1,4 +1,4 @@
-# repositorios
+# repositorio
 
 ## Nombres de los integrante:
 
