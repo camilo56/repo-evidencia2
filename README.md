@@ -12,7 +12,8 @@ luego se realizo un "pull request" para implementar los cambios realizados de ma
 finalmente se realizo un "merge" juntando los commits trabajados.
 
 ## Comentarios:
+Como actividad nos complicó entender lo que es un commit en las ramas de desarrollo  y un pull request para la rama principal, también nos complicó el merge ya que al fusionar ramas distintas con codigo de HolaMundo.java distinto, nos entraba conflicto y habia que modificar el codigo para que no hubiera dos inicios de clase, o aveces una parte del código fusionado estaba fuera del main del código principal. 
 
 ## Conclusiones:
 Se logro satisfactoriamente el cometido de la actividad,
-logrando que como grupo adquirieamos conocimiento y practica del funcionamiento de un repositorio compartido.
+logrando que como grupo adquiriéramos conocimiento y practica del funcionamiento de un repositorio compartido.
