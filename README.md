@@ -16,4 +16,4 @@ Como actividad nos complicó entender lo que es un commit en las ramas de desarr
 
 ## Conclusiones:
 Se logro satisfactoriamente el cometido de la actividad,
-logrando que como grupo adquiriéramos conocimiento y practica del funcionamiento de un repositorio compartido, también como conclusión principal nos dimos cuenta la importancia de dejar un orden establecido en los nombres de los archivos, ya que deben ser igual para todas las ramas para fusionar de manera correcta los archivos, si no se hace de esa manera solo juntan los archivos de distinta ramas pero no se fuciona los archivos que corresponden. 
+logrando que como grupo adquiriéramos conocimiento y practica del funcionamiento de un repositorio compartido, también como conclusión principal nos dimos cuenta la importancia de dejar un orden establecido en los nombres de los archivos, ya que deben ser igual para todas las ramas para fusionar de manera correcta los archivos, si no se hace de esa manera solo se juntan los archivos de distinta ramas pero no se fuciona el contenido de los archivos que corresponden. 
